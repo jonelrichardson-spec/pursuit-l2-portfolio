@@ -1,6 +1,6 @@
 # 📁 My L2 Portfolio - Jonel (Jo) Richardson
 
-Hi, I'm Jo. I spent 10 years as a preschool teacher, including 8 years in Japan, and now I'm building AI-powered applications as an AI-Native Builder at [Pursuit Fellowship](https://www.pursuit.org/) (Sept 2025–May 2026).
+Hi, I'm Jonel. I spent 10 years as a preschool teacher, including 8 years in Japan, and now I'm building AI-powered applications as an AI-Native Builder at [Pursuit Fellowship](https://www.pursuit.org/) (Sept 2025–May 2026).
 
 My background in education shapes how I approach building: I care about clarity, accessibility, and designing for real people. I'm drawn to civic infrastructure problems. I want to build tools that surface invisible issues, create accountability through data, and help systems work better for vulnerable populations.
 
