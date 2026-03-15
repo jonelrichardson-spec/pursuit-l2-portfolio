@@ -68,7 +68,7 @@ A predictive maintenance platform for wind turbines that calculates **True Age**
 I was the frontend lead, building the Next.js dashboard and Expo mobile app. Delivered features include: a Mapbox stress heatmap with SDF triangle markers and terrain filters, a turbine detail page with True Age breakdown, inspection CRUD with photo upload, and PDF report download. The backend is a FastAPI/Python service with 500 seeded turbines and PostGIS for geospatial queries.
 
 **Stack:** Next.js 16 · Tailwind CSS v4 · Zustand · Mapbox GL JS · Expo · FastAPI · Supabase/PostGIS  
-**Live Demo:** [Add link here] | **Repo:** [jonelrichardson-spec/AeroStress](https://github.com/jonelrichardson-spec/AeroStress)
+**Live Demo:** [aerostress.vercel.app](https://aerostress-aikh6j84j-papes-projects-f59f593c.vercel.app/dashboard) | **Repo:** [jonelrichardson-spec/AeroStress](https://github.com/jonelrichardson-spec/AeroStress)
 
 ---
 
