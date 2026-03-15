@@ -82,7 +82,23 @@ I was the frontend lead, building the Next.js dashboard and Expo mobile app. Del
 
 ---
 
+🗂 Cold Case Cluster Finder
+Team: Manny (backend/data engineering) | Built: Spring 2026 (Capstone)
+The FBI's Supplemental Homicide Reports contain nearly 900,000 records of unsolved homicides dating back to 1976, but that data has never been easy to explore geographically. I built the full frontend for a data journalism and law enforcement intelligence tool that clusters unsolved cases on an interactive map, so investigators and journalists can surface patterns that are invisible in a spreadsheet.
+The dashboard includes custom filtering, a drag-resizable case detail panel, Mapbox cluster animations, and an Insights page that contextualizes the data. I owned all 7 build phases from landing page through E2E testing, with 189 passing tests and a type-check clean codebase at Demo Day.
+Stack: Next.js · Tailwind CSS v4 · Zustand · Mapbox GL JS
+Live Demo: cold-case-flame.vercel.app | Repo: OasisView/cold-case
+
+---
+
+🛠 Tech I Work With
+Frontend: React · Next.js · Vite · Tailwind CSS · TypeScript
+State: Zustand · localStorage
+APIs & AI: Claude API · MTA APIs · Mapbox GL JS · PeerJS (WebRTC)
+Backend (learning): Node.js · Express · FastAPI · Socket.io
+Tools: Git/GitHub · Vercel · Railway · Claude Code
+
 ## 🔗 Connect
 
 - **LinkedIn:** [jonel-richardson-09a399382](https://www.linkedin.com/in/jonel-richardson-09a399382)
-- **Pursuit Fellowship:** [pursuit.org](https://www.pursuit.org/)
+- **Pursuit Fellowship:** https://www.pursuit.org/
