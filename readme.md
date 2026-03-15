@@ -1,4 +1,4 @@
-# 📁 My L2 Portfolio - Jonel (Jo) Richardson
+# 📁 My L2 Portfolio - Jonel Richardson
 
 Hi, I'm Jonel. I spent 10 years as a preschool teacher, including 8 years in Japan, and now I'm building AI-powered applications as an AI-Native Builder at [Pursuit Fellowship](https://www.pursuit.org/) (Sept 2025–May 2026).
 
