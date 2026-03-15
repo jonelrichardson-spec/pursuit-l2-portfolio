@@ -72,16 +72,6 @@ I was the frontend lead, building the Next.js dashboard and Expo mobile app. Del
 
 ---
 
-## 🛠 Tech I Work With
-
-**Frontend:** React · Next.js · Vite · Tailwind CSS · TypeScript  
-**State:** Zustand · localStorage  
-**APIs & AI:** Claude API · MTA APIs · Mapbox GL JS · PeerJS (WebRTC)  
-**Backend (learning):** Node.js · Express · FastAPI · Socket.io  
-**Tools:** Git/GitHub · Vercel · Railway · Claude Code
-
----
-
 🗂 Cold Case Cluster Finder
 Team: Manny (backend/data engineering) | Built: Spring 2026 (Capstone)
 The FBI's Supplemental Homicide Reports contain nearly 900,000 records of unsolved homicides dating back to 1976, but that data has never been easy to explore geographically. I built the full frontend for a data journalism and law enforcement intelligence tool that clusters unsolved cases on an interactive map, so investigators and journalists can surface patterns that are invisible in a spreadsheet.
