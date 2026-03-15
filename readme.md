@@ -20,8 +20,7 @@ NYC's 311 system is reactive. A bus stop has to be reported as blocked before an
 The Claude API analyzes camera images near bus stop coordinates and returns a confidence score (clear / at risk / blocked). Results surface on a map interface for transit operators or 311 dispatchers.
 
 **Stack:** Next.js · Tailwind CSS · Claude API (vision) · MTA Bus Stop data · NYC DOT camera feeds  
-**Live Demo:** [snowedinbusstop.netlify.app](https://snowedinbusstop.netlify.app/) | **Repo:** [jonelrichardson-spec/SnowedInBusStop](https://github.com/jonelrichardson-spec/SnowedInBusStop)
-
+**Live Demo:** [snowedinbusstop.netlify.app](https://snowedinbusstop.netlify.app/) | **Repo:** [https://github.com/jonelrichardson-spec/SnowedInMTABusStop]
 ---
 
 ### 🍷 Vivino Clone
@@ -32,9 +31,7 @@ A pixel-perfect clone of the Vivino wine app featuring a two-layer scrollable mo
 Building this taught me how much design complexity hides inside interfaces that feel simple to use. Getting the scrollable layout right required careful attention to CSS overflow behavior, fixed vs. relative positioning, and how scroll events propagate through nested containers.
 
 **Stack:** React · Vite · Tailwind CSS  
-**Live Demo:** [lubakaper.github.io/VivinoVersion2](https://lubakaper.github.io/VivinoVersion2/#/shop) | **Repo:** [jonelrichardson-spec/vivino-clone](https://github.com/jonelrichardson-spec/vivino-clone)
-
----
+**Live Demo:** [lubakaper.github.io/VivinoVersion2](https://lubakaper.github.io/VivinoVersion2/#/shop) | **Repo:** [jonelrichardson-spec/vivino-clone]
 
 ### 🛍 Too Good To Go Clone
 **Team:** Victor | **Built:** February 2026
